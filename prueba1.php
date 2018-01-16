@@ -13,4 +13,5 @@ for ($numero=1; $count<10; $numero++) {
     }
     $esprimo=TRUE;
 }
+echo "Hola, soy Diego";
 ?>

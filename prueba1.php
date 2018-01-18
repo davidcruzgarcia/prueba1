@@ -13,5 +13,6 @@ for ($numero=1; $count<10; $numero++) {
     }
     $esprimoOAOAOAOA=TRUE;
     echo "funciona";
+    
 }
 ?>

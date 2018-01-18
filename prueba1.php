@@ -12,7 +12,7 @@ for ($numero=1; $count<10; $numero++) {
         $count++;
     }
     $esprimoOAOAOAOA=TRUE;
-    echo "Esto es un cambio en el fichero";
+    echo "funciona";
     
 }
 ?>
